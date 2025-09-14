@@ -9,3 +9,8 @@
 
 
 // function (){} = it has to be function like that only so that "this" keyword inside can refer to the userSchema Schema not something else.
+
+
+
+
+// here you can add a button to delete items from the CaretPosition. 
