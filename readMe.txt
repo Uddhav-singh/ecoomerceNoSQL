@@ -28,5 +28,4 @@ ecommerceNoSQL/
    │  └─ authController.js ...
    ├─ middleware/
    │  └─ authMiddleware.js, errorHandler.js
-   └─ utils/
-      └─ s3.js (optional)
+   
