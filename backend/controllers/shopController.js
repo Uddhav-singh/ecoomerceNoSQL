@@ -1,5 +1,7 @@
 // userSchema.methods.addToCart = function() {}
 
+const { register } = require("./authController")
+
 // userSchema = name of the user model schema
 
 // methods = methods key here is an object that allows you to add your own method(eg. addToCart )
@@ -14,3 +16,11 @@
 
 
 // here you can add a button to delete items from the CaretPosition. 
+
+
+// steps to implement this app 
+// 1-user register/login
+// 2- add products to cart
+// 3- view cart
+// 4- place order
+// 5- view orders
